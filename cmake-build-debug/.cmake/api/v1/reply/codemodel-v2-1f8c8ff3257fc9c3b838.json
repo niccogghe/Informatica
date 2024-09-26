@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "CLASSIFICA_ESERCIZIO",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "CLASSIFICA_ESERCIZIO::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CLASSIFICA_ESERCIZIO-Debug-9072b2c476c96d8976df.json",
+					"name" : "CLASSIFICA_ESERCIZIO",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/niccologracci/CLionProjects/CLASSIFICA_ESERCIZIO/cmake-build-debug",
+		"source" : "/Users/niccologracci/CLionProjects/CLASSIFICA_ESERCIZIO"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}
